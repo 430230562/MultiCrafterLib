@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/discord/937228972041842718?color=%23529b69&label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/PDwyxM3waw)
 [![TotalDownloads](https://img.shields.io/github/downloads/liplum/MultiCrafterLib/total?color=674ea7&label=Download&logo=docusign&logoColor=white&style=for-the-badge)](https://github.com/liplum/MultiCrafterLib/releases)
-[![](https://jitpack.io/v/liplum/MultiCrafterLib.svg)](https://jitpack.io/#liplum/MultiCrafterLib)
+[![jitpack](https://jitpack.io/v/liplum/MultiCrafterLib.svg)](https://jitpack.io/#liplum/MultiCrafterLib)
 
 A Mindustry MultiCrafter lib-mod for Json and JavaScript mods.
 Please check the [instruction](https://liplum.github.io/MultiCrafterLib/).
@@ -16,6 +16,7 @@ ___
 Please check the [instruction](https://liplum.github.io/MultiCrafterLib/) to learn MultiCrafter.
 
 ## Showcase
+
 ![Statistics](GFX/Statistics.gif)
 
 ## Awesome
@@ -43,6 +44,8 @@ Some mods using *MultiCrafter Lib* are listed here, you may learn from them.
 - [Java] [Unlimited Armament Works](https://github.com/Eschatologue/Unlimited-Armament-Works) by `Eschatologue`
 
 - [Java] [Aeyama: The New World](https://github.com/Aeyama-Mod/aeyama) by `FredyJabe` & `Jojo`
+
+- [JavaScript] [Vanilla Neoplasm Extend](https://github.com/430230562/vanilla-neoplasm-extend) by `pardon`
 
 Make a pull request to tell us if your mod is using MultiCrafter Lib. :rocket::rocket::rocket:
 

@@ -5,7 +5,11 @@ function getClass(name){
 	return NativeJavaClass(scripts.scope, loader.loadClass(name));
 };
 
-const multiCrafterClz = getClass("multicraft.MultiCrafter")
 module.exports = {
-    MultiCrafter : multiCrafterClz
+    MultiCrafter : getClass("multicraft.MultiCrafter"),
+    DrawRecipe : getClass("multicraft.DrawRecipe"),
+    IOEntry : getClass("multicraft.IOEntry"),
+    Recipe : getClass("multicraft.Recipe")
 }
+
+print(">>>>>MultiCrafter JavaScript loaded.")
